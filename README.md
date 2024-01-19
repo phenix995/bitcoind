@@ -1,5 +1,7 @@
 # bitcoind
- 
+
+## Does not work yet
+
 # To build the image, run this command.
 docker build -t bitcoin-node .
 
